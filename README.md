@@ -35,7 +35,7 @@ canvas-bouncing-ball/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/canvas-bouncing-ball.git
+   git clone https://github.com/divyanshi3012/canvas-bouncing-ball.git
    ```
 
 2. **Navigate to the folder:**
@@ -53,7 +53,7 @@ canvas-bouncing-ball/
 
 - **HTML5 Canvas API** – For rendering 2D graphics
 - **CSS3** – For styling and layout
-- **Vanilla JavaScript** – For animation, rendering, and physics
+- **JavaScript** – For animation, rendering, and physics
 
 ---
 
@@ -96,7 +96,7 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ## 👩‍💻 Author
 
 **Divyanshi Singh**  
-👩‍🎓 Final-year BTech CSE Student  
+👩‍🎓 BTech CSE Student(Batch 2025)  
 📍 Dehradun | 📫 [divyanshisingh@gmail.com]  
 🌐 [GitHub](https://github.com/divyanshi3012) | [LinkedIn](https://www.linkedin.com/in/divyanshi-singh-82634a224)
 
